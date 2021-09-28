@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @c0nevski
+- 👀 I’m interested in coding and billiards
