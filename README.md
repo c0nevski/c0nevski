@@ -7,7 +7,7 @@ I'm a Flutter & full-stack javascript developer.
     <img src="https://github-readme-stats.vercel.app/api?username=c0nevski&count_private=true&show_icons=true&theme=tokyonight&line_height=30" />
   </a>
   <a href="https://github.com/c0nevski/">
-    <img src="https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.webp" width="50%" style="max-width: 100%;height: 225px;object-fit: cover;object-position: bottom; border-radius: 20px;"/>
+    <img src="https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.webp" width="40%" style="height: 225px;object-fit: cover;object-position: bottom; border-radius: 20px;"/>
   </a>
 </div>
 
