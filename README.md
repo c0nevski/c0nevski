@@ -3,18 +3,20 @@
 I'm a Flutter & full-stack javascript developer.
 
 <div>
-  <a href="https://github.com/c0nevski/" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=c0nevski&count_private=true&show_icons=true&theme=tokyonight" />
-    <img align="center" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/raw/master/animation_500_kv8i962g.gif?raw=true" style="max-width: 100%;">
+  <a href="https://github.com/c0nevski/">
+    <img src="https://github-readme-stats.vercel.app/api?username=c0nevski&count_private=true&show_icons=true&theme=tokyonight&line_height=30" />
+  </a>
+  <a href="https://github.com/c0nevski/">
+    <img src="https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.webp" width="50%" style="max-width: 100%;height: 225px;object-fit: cover;object-position: bottom; border-radius: 20px;"/>
   </a>
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="icon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
 </div>
   
